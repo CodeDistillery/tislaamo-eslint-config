@@ -1,6 +1,6 @@
 {
   "name": "@tislaamo/eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Eslint configuration used by Tislaamo",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git://github.com/CodeDistillery/tislaamo-eslint-config.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "peerDependencies": {
     "eslint": ">= 3"
   },
