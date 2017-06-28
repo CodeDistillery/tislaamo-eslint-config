@@ -6,5 +6,5 @@
 
     # .eslint.rc
     {
-      "extends": ["@tislaamo"],
+      "extends": ["@tislaamo"]
     }
